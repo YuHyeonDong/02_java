@@ -11,6 +11,9 @@ public class Hello {
 		//많으므로 대소문자 오타주의 하세요.
 		System.out.println("Hello, World!");
 		
+		// 실행 : ctrl + F11
+	
+		
 	}
 
 }
