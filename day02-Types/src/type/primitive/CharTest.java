@@ -33,8 +33,13 @@ public class CharTest {
 		// + 1 하는 산술연산을 하여 값을 증가시키고
 		code = code + 1;
 		System.out.println("code=" + code);
+		
 		// + 1 증가된 정수값을 강제로 문자(char)로 바꾸어 출력
 		System.out.println("(char)code=" + (char)code);
+		
+		
+		
+		
 	}
 
 }
