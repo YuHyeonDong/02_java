@@ -20,7 +20,7 @@ public class BitWise {
 		System.out.printf("%x & %x = %x%n", a, b, (a & b));
 		System.out.printf("%x | %x = %x%n", a, b, (a | b));
 		System.out.printf("%x ^ %x = %x%n", a, b, (a ^ b));
-		System.out.printf("~%x = %x%n", a, ~a));
+		System.out.printf("~%x = %x%n", a, ~a);
 		
 	}
 
