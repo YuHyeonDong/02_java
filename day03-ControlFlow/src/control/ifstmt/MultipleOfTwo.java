@@ -39,6 +39,7 @@ public class MultipleOfTwo {
 		input = scan.nextInt();
 		
 		// 3. 사용
+		// 입력값이 0 인 경우 : "0은 배수 판별할 수 없습니다."
 		if (input % 2 == 0) {
 			result = "배수입니다.";
 		}else {
