@@ -1,6 +1,6 @@
 package operator.ternary;
 
-import com.sun.tools.javac.parser.Scanner;
+import java.util.Scanner;
 
 /**
  * 삼항연산자 (조건식 ? 값1 : 값2) 를 테스트하는 클래스
