@@ -1,3 +1,4 @@
+package operator.binary;
 
 public class BitWise {
 /**
